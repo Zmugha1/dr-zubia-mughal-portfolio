@@ -1,5 +1,6 @@
 import Hero from '@/sections/Hero';
 import TheoryAdvantage from '@/components/TheoryAdvantage';
+import SmallDataMethodology from '@/components/SmallDataMethodology';
 import ValueProposition from '@/sections/ValueProposition';
 import AgentsShowcase from '@/sections/AgentsShowcase';
 import Philosophy from '@/sections/Philosophy';
@@ -12,6 +13,7 @@ export default function Home() {
     <>
       <Hero />
       <TheoryAdvantage />
+      <SmallDataMethodology />
       <ValueProposition />
       <AgentsShowcase />
       <Philosophy />

@@ -22,11 +22,11 @@ const jetbrains = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Zubia Mughal, Ed.D. | Principal Data Scientist',
+  title: 'Zubia Mughal, Ed.D. | Data Researcher, AI and ML Systems',
   description:
     'Theory-Constrained Machine Learning for High-Stakes Decisions. Operationalizing organizational psychology and supply chain theory as computational constraints.',
   openGraph: {
-    title: 'Zubia Mughal, Ed.D. | Principal Data Scientist',
+    title: 'Zubia Mughal, Ed.D. | Data Researcher, AI and ML Systems',
     description:
       'Theory-Constrained ML for High-Stakes Decisions. Governed AI systems that outperform black-box models on small, critical datasets.',
   },

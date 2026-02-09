@@ -1,6 +1,6 @@
 # Zubia Mughal, Ed.D. — Portfolio
 
-Single-page portfolio for **Zubia Mughal, Ed.D.** — Principal Data Scientist. Theme: *Academic Precision meets Industrial Strength* (theory-constrained ML, high-stakes decisions, governance).
+Single-page portfolio for **Zubia Mughal, Ed.D.** — Data Researcher, AI and ML Systems. Theme: *Academic Precision meets Industrial Strength* (theory-constrained ML, high-stakes decisions, governance).
 
 ## Tech Stack
 

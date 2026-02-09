@@ -15,7 +15,7 @@ const THEORY_CONSTRAINED = [
   'Encode Baldwin & Ford as feature constraints',
   'Ante hoc interpretability',
   'Structural equation priors',
-  'Handles n=600, censored data',
+  'Robust with sparse historical records',
 ];
 
 export default function ValueProposition() {

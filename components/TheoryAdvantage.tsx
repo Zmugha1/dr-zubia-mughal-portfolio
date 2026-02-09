@@ -29,7 +29,7 @@ const STANDARD_ITEMS: Array<{ icon: typeof Box; text: string }> = [
 const THEORY_ITEMS: Array<{ icon: typeof BookOpen; text: string }> = [
   {
     icon: BookOpen,
-    text: 'Encode Baldwin & Ford, Christopher & Peck as computational constraints',
+    text: 'Encode domain-based extant literature and time-tested theories as computational constraints',
   },
   {
     icon: CheckCircle2,
@@ -41,7 +41,7 @@ const THEORY_ITEMS: Array<{ icon: typeof BookOpen; text: string }> = [
   },
   {
     icon: Target,
-    text: 'Calibrated for small, critical datasets (n<1000)',
+    text: 'Robust with sparse historical records',
   },
   {
     icon: Gauge,

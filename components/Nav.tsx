@@ -45,7 +45,7 @@ export default function Nav() {
             Zubia Mughal, Ed.D.
           </span>
           <span className="text-xs text-secondary-text hidden sm:block">
-            Principal Data Scientist
+            Data Researcher, AI and ML Systems
           </span>
         </Link>
 

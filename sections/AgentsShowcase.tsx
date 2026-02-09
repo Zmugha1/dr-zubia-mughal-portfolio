@@ -62,13 +62,6 @@ const FEATURED_AGENTS = [
 // Streamlit main files: dark-data-annotator app.py | data-to-dollars-demo app/main.py | dr-data-training-agent ui/streamlit_app.py | governance-agent-telco-churn app/streamlit_app.py | sandi-bot- app.py
 const ADDITIONAL_AGENTS = [
   {
-    title: 'Dr. Data – Decision Intelligence',
-    description: 'Transform scattered data into confident decisions. Data strategy, ML lifecycle design, predictive decision intelligence.',
-    url: 'https://github.com/Zmugha1/drdatadecisionintelligence',
-    liveUrl: 'https://drdatadecisionintelligence.com',
-    streamlitUrl: undefined,
-  },
-  {
     title: 'Dark Data Annotator',
     description: 'Internal ML pipeline: Raw documents → Cleanse → Anonymize → Chunk → Flatten → Embed → ML-ready. Optimized vector search.',
     url: 'https://github.com/Zmugha1/dark-data-annotator',

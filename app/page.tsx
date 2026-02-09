@@ -1,4 +1,5 @@
 import Hero from '@/sections/Hero';
+import TheoryAdvantage from '@/components/TheoryAdvantage';
 import ValueProposition from '@/sections/ValueProposition';
 import AgentsShowcase from '@/sections/AgentsShowcase';
 import Philosophy from '@/sections/Philosophy';
@@ -10,6 +11,7 @@ export default function Home() {
   return (
     <>
       <Hero />
+      <TheoryAdvantage />
       <ValueProposition />
       <AgentsShowcase />
       <Philosophy />

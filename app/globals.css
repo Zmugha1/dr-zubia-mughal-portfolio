@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #020617;
+  --surface: #0f172a;
+  --primary-text: #fafaf9;
+  --secondary-text: #94a3b8;
+  --accent: #b45309;
+  --accent-hover: #d97706;
+  --impact: #059669;
+  --border: #1e293b;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Offset for sticky nav when scrolling to anchors */
+section[id] {
+  scroll-margin-top: 5rem;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--primary-text);
+  font-feature-settings: 'rlig' 1, 'calt' 1;
+}
+
+/* Reduce layout shift: reserve space for fonts */
+h1, h2, h3, .font-serif {
+  font-synthesis: none;
+}
+
+/* Focus visible for accessibility */
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* Touch targets >= 44px on mobile */
+@media (max-width: 768px) {
+  a, button {
+    min-height: 44px;
+    min-width: 44px;
+  }
+}
